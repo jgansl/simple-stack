@@ -5,3 +5,4 @@
 
 ## Backend
 - hono
+- next.js
