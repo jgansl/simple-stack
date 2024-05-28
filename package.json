@@ -1,0 +1,8 @@
+{
+  "name": "simple-stack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jgansl/simple-stack",
+  "author": "jgansl <jessegansler@gmail.com>",
+  "license": "MIT"
+}
